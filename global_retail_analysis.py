@@ -1908,3 +1908,10 @@ print("Files inside reports folder:")
 for file in report_files:
     print("-", file)
 # %%
+import os
+
+chart_files = os.listdir("reports/charts")
+
+for file in chart_files:
+    print(file)
+# %%
