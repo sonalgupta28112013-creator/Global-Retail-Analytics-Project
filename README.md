@@ -169,3 +169,11 @@ After running the project, look in:
 
 ## Suggested study method
 Do not try to memorize the entire script. Start with cells 1–5, understand ingestion, and run them. Then continue to reading tables, merging, grouping, and charts. Change one thing at a time and observe the output.
+
+## Project Visualizations
+
+### Monthly Sales Trend
+![Monthly Sales Trend](reports/charts/monthly_sales_trend.png)
+
+### Sales by Category
+![Sales by Category](reports/charts/sales_by_category.png)
