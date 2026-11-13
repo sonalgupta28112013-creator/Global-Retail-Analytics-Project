@@ -1,0 +1,25 @@
+Product_ID,Product_Name,Product_Category,Unit_Price,Unit_Cost,Stock_Quantity
+P001,Wireless Mouse,Electronics,247.8,131.15,81
+P002,Laptop Stand,Electronics,478.79,316.79,120
+P003,USB-C Hub,Electronics,568.69,318.31,78
+P004,Bluetooth Speaker,Electronics,151.92,69.3,147
+P005,Keyboard,Electronics,87.46,56.41,126
+P006,Webcam,Electronics,147.15,86.12,85
+P007,Notebook Pack,Office Supplies,139.64,89.09,91
+P008,Printer Paper,Office Supplies,331.3,176.06,83
+P009,Desk Organizer,Office Supplies,540.18,295.85,172
+P010,Pens Set,Office Supplies,110.89,78.7,20
+P011,Stapler,Office Supplies,773.39,494.14,85
+P012,File Folders,Office Supplies,824.17,544.17,51
+P013,Office Chair,Furniture,612.75,350.08,133
+P014,Standing Desk,Furniture,92.78,64.36,52
+P015,Bookshelf,Furniture,393.94,198.8,131
+P016,Desk Lamp,Furniture,497.39,247.57,58
+P017,Filing Cabinet,Furniture,729.84,477.9,91
+P018,Monitor Stand,Furniture,374.09,231.7,130
+P019,Water Bottle,Home & Lifestyle,501.47,313.65,115
+P020,Coffee Maker,Home & Lifestyle,360.45,166.25,19
+P021,Travel Mug,Home & Lifestyle,425.96,229.62,120
+P022,Air Purifier,Home & Lifestyle,98.65,60.04,30
+P023,Storage Basket,Home & Lifestyle,154.96,108.44,178
+P024,Desk Plant,Home & Lifestyle,302.68,184.5,106

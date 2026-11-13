@@ -1,0 +1,151 @@
+Customer_ID,Customer_Name,City,State,Customer_Segment,Signup_Date
+C0001,Ava Lewis,Mississauga,Ontario,Corporate,2022-05-05 00:00:00
+C0002,Emma Patel,Ottawa,Ontario,Small Business,2024-12-19 00:00:00
+C0003,Isabella Lewis,Mississauga,Ontario,Small Business,2024-07-05 00:00:00
+C0004,Mason Martin,Mississauga,Ontario,Consumer,2023-09-07 00:00:00
+C0005,Liam Singh,Toronto,Ontario,Consumer,2023-08-30 00:00:00
+C0006,Mason Smith,Montreal,Quebec,Small Business,2025-04-17 00:00:00
+C0007,James Clark,Ottawa,Ontario,Small Business,2022-05-01 00:00:00
+C0008,Mia Singh,Montreal,Quebec,Corporate,2024-09-03 00:00:00
+C0009,Olivia Walker,Winnipeg,Manitoba,Consumer,2022-10-10 00:00:00
+C0010,James Martin,Brampton,Ontario,Corporate,2022-05-12 00:00:00
+C0011,Noah Singh,Hamilton,Ontario,Corporate,2024-01-08 00:00:00
+C0012,Liam Martin,Mississauga,Ontario,Consumer,2025-09-27 00:00:00
+C0013,Benjamin Taylor,Vancouver,British Columbia,Small Business,2024-10-27 00:00:00
+C0014,Amelia Smith,Hamilton,Ontario,Small Business,2024-12-01 00:00:00
+C0015,Sophia Brown,Edmonton,Alberta,Corporate,2024-10-01 00:00:00
+C0016,Sophia Wilson,Mississauga,Ontario,Small Business,2025-01-05 00:00:00
+C0017,Charlotte Young,Winnipeg,Manitoba,Corporate,2023-12-20 00:00:00
+C0018,Emma Lewis,Winnipeg,Manitoba,Consumer,2022-06-29 00:00:00
+C0019,Isabella Singh,Toronto,Ontario,Corporate,2025-03-21 00:00:00
+C0020,Benjamin Singh,Mississauga,Ontario,Consumer,2023-09-23 00:00:00
+C0021,Olivia Lee,Calgary,Alberta,Small Business,2023-12-02 00:00:00
+C0022,Noah Taylor,Vancouver,British Columbia,Corporate,2023-06-04 00:00:00
+C0023,Isabella Wilson,Ottawa,Ontario,Small Business,2022-09-13 00:00:00
+C0024,Mason Clark,Mississauga,Ontario,Consumer,2025-07-21 00:00:00
+C0025,James Singh,Montreal,Quebec,Consumer,2024-12-30 00:00:00
+C0026,Mia Wilson,Edmonton,Alberta,Small Business,2024-06-20 00:00:00
+C0027,Emma Clark,Montreal,Quebec,Corporate,2023-07-18 00:00:00
+C0028,Emma Young,Toronto,Ontario,Consumer,2025-02-25 00:00:00
+C0029,Mia Wilson,Vancouver,British Columbia,Consumer,2024-02-03 00:00:00
+C0030,Charlotte Khan,Ottawa,Ontario,Small Business,2023-09-13 00:00:00
+C0031,Emma Clark,Vancouver,British Columbia,Corporate,2023-09-23 00:00:00
+C0032,Charlotte Hall,Calgary,Alberta,Small Business,2022-11-15 00:00:00
+C0033,Noah Wilson,Edmonton,Alberta,Consumer,2022-05-09 00:00:00
+C0034,James Chen,Ottawa,Ontario,Small Business,2024-02-16 00:00:00
+C0035,James Khan,Hamilton,Ontario,Corporate,2025-05-28 00:00:00
+C0036,Mia Taylor,Winnipeg,Manitoba,Consumer,2022-03-31 00:00:00
+C0037,Sophia Lee,Brampton,Ontario,Consumer,2025-04-16 00:00:00
+C0038,Benjamin Brown,Toronto,Ontario,Consumer,2025-03-04 00:00:00
+C0039,Amelia Clark,Brampton,Ontario,Corporate,2023-01-23 00:00:00
+C0040,Liam Martin,Winnipeg,Manitoba,Corporate,2024-06-03 00:00:00
+C0041,Lucas Chen,Winnipeg,Manitoba,Corporate,2022-08-20 00:00:00
+C0042,Benjamin Smith,Montreal,Quebec,Small Business,2024-11-27 00:00:00
+C0043,Isabella Hall,Mississauga,Ontario,Small Business,2024-09-07 00:00:00
+C0044,Amelia Clark,Hamilton,Ontario,Corporate,2023-05-12 00:00:00
+C0045,Olivia Martin,Mississauga,Ontario,Consumer,2022-04-06 00:00:00
+C0046,Ava Lewis,Edmonton,Alberta,Small Business,2025-09-20 00:00:00
+C0047,Sophia Walker,Hamilton,Ontario,Consumer,2023-09-16 00:00:00
+C0048,Charlotte Brown,Montreal,Quebec,Small Business,2025-06-04 00:00:00
+C0049,Benjamin Clark,Hamilton,Ontario,Small Business,2024-08-07 00:00:00
+C0050,Emma Patel,Winnipeg,Manitoba,Corporate,2024-12-25 00:00:00
+C0051,Sophia Walker,Brampton,Ontario,Small Business,2024-11-29 00:00:00
+C0052,Mason Taylor,Toronto,Ontario,Corporate,2022-09-30 00:00:00
+C0053,Liam Hall,Toronto,Ontario,Corporate,2023-05-25 00:00:00
+C0054,Emma Smith,Hamilton,Ontario,Consumer,2023-10-16 00:00:00
+C0055,Liam Brown,Winnipeg,Manitoba,Small Business,2023-11-28 00:00:00
+C0056,Benjamin Brown,Edmonton,Alberta,Small Business,2022-03-03 00:00:00
+C0057,Noah Clark,Brampton,Ontario,Corporate,2024-02-05 00:00:00
+C0058,Noah Wilson,Montreal,Quebec,Small Business,2022-08-05 00:00:00
+C0059,Mia Singh,Winnipeg,Manitoba,Small Business,2024-11-06 00:00:00
+C0060,James Wilson,Ottawa,Ontario,Corporate,2024-08-14 00:00:00
+C0061,Lucas Hall,Vancouver,British Columbia,Small Business,2025-07-15 00:00:00
+C0062,Liam Singh,Edmonton,Alberta,Consumer,2024-11-08 00:00:00
+C0063,Ethan Smith,Mississauga,Ontario,Small Business,2023-05-29 00:00:00
+C0064,Emma Khan,Montreal,Quebec,Consumer,2025-09-16 00:00:00
+C0065,Liam Lewis,Toronto,Ontario,Small Business,2023-07-30 00:00:00
+C0066,Emma Brown,Toronto,Ontario,Consumer,2023-04-02 00:00:00
+C0067,Liam Chen,Vancouver,British Columbia,Consumer,2025-06-21 00:00:00
+C0068,Isabella Lee,Hamilton,Ontario,Consumer,2023-06-03 00:00:00
+C0069,Noah Lewis,Montreal,Quebec,Small Business,2022-04-17 00:00:00
+C0070,Lucas Singh,Winnipeg,Manitoba,Corporate,2023-10-20 00:00:00
+C0071,Emma Brown,Calgary,Alberta,Consumer,2025-01-18 00:00:00
+C0072,Ethan Martin,Calgary,Alberta,Corporate,2022-09-23 00:00:00
+C0073,Benjamin Lewis,Edmonton,Alberta,Consumer,2023-10-11 00:00:00
+C0074,Ava Martin,Mississauga,Ontario,Small Business,2022-07-01 00:00:00
+C0075,Amelia Young,Vancouver,British Columbia,Consumer,2024-08-19 00:00:00
+C0076,Emma Singh,Ottawa,Ontario,Small Business,2023-10-28 00:00:00
+C0077,Noah Martin,Edmonton,Alberta,Consumer,2023-04-08 00:00:00
+C0078,Lucas Singh,Hamilton,Ontario,Consumer,2022-11-14 00:00:00
+C0079,Amelia Young,Edmonton,Alberta,Small Business,2024-03-01 00:00:00
+C0080,Ava Clark,Mississauga,Ontario,Small Business,2024-07-26 00:00:00
+C0081,Liam Hall,Toronto,Ontario,Consumer,2025-08-09 00:00:00
+C0082,Mia Lee,Brampton,Ontario,Corporate,2023-09-05 00:00:00
+C0083,Benjamin Martin,Ottawa,Ontario,Consumer,2022-08-13 00:00:00
+C0084,Mia Smith,Brampton,Ontario,Corporate,2025-03-11 00:00:00
+C0085,Charlotte Walker,Hamilton,Ontario,Corporate,2024-05-31 00:00:00
+C0086,Mia Lewis,Hamilton,Ontario,Small Business,2024-09-07 00:00:00
+C0087,Isabella Lewis,Montreal,Quebec,Corporate,2022-05-17 00:00:00
+C0088,Emma Wilson,Brampton,Ontario,Consumer,2023-03-14 00:00:00
+C0089,Mason Lewis,Toronto,Ontario,Small Business,2024-12-10 00:00:00
+C0090,James Taylor,Toronto,Ontario,Consumer,2025-03-11 00:00:00
+C0091,Mason Lee,Toronto,Ontario,Small Business,2023-09-02 00:00:00
+C0092,Noah Smith,Montreal,Quebec,Small Business,2025-01-31 00:00:00
+C0093,Benjamin Patel,Mississauga,Ontario,Consumer,2025-03-24 00:00:00
+C0094,Liam Clark,Winnipeg,Manitoba,Consumer,2023-06-27 00:00:00
+C0095,Liam Hall,Calgary,Alberta,Small Business,2025-06-11 00:00:00
+C0096,Mason Khan,Ottawa,Ontario,Consumer,2023-02-08 00:00:00
+C0097,Liam Martin,Winnipeg,Manitoba,Small Business,2022-12-02 00:00:00
+C0098,Mason Chen,Winnipeg,Manitoba,Corporate,2024-08-13 00:00:00
+C0099,Emma Clark,Hamilton,Ontario,Small Business,2024-06-10 00:00:00
+C0100,Emma Wilson,Vancouver,British Columbia,Corporate,2022-07-15 00:00:00
+C0101,Isabella Clark,Brampton,Ontario,Corporate,2025-03-11 00:00:00
+C0102,Ethan Hall,Edmonton,Alberta,Consumer,2022-10-07 00:00:00
+C0103,Lucas Khan,Toronto,Ontario,Small Business,2025-01-31 00:00:00
+C0104,Liam Chen,Mississauga,Ontario,Consumer,2022-01-11 00:00:00
+C0105,Olivia Patel,Montreal,Quebec,Corporate,2025-01-20 00:00:00
+C0106,Charlotte Singh,Mississauga,Ontario,Corporate,2025-01-06 00:00:00
+C0107,Noah Lee,Hamilton,Ontario,Small Business,2024-12-28 00:00:00
+C0108,Mason Walker,Hamilton,Ontario,Small Business,2024-07-19 00:00:00
+C0109,Ava Clark,Montreal,Quebec,Small Business,2023-10-23 00:00:00
+C0110,Charlotte Clark,Hamilton,Ontario,Consumer,2024-09-14 00:00:00
+C0111,Olivia Brown,Brampton,Ontario,Consumer,2023-01-23 00:00:00
+C0112,Noah Wilson,Montreal,Quebec,Corporate,2024-12-29 00:00:00
+C0113,Emma Lewis,Winnipeg,Manitoba,Corporate,2024-02-17 00:00:00
+C0114,Isabella Clark,Ottawa,Ontario,Corporate,2023-10-05 00:00:00
+C0115,Lucas Wilson,Montreal,Quebec,Consumer,2023-12-09 00:00:00
+C0116,Isabella Martin,Mississauga,Ontario,Corporate,2024-03-07 00:00:00
+C0117,Ava Taylor,Toronto,Ontario,Consumer,2022-02-22 00:00:00
+C0118,Noah Lewis,Hamilton,Ontario,Corporate,2022-07-15 00:00:00
+C0119,James Martin,Montreal,Quebec,Small Business,2022-12-10 00:00:00
+C0120,Liam Brown,Toronto,Ontario,Small Business,2022-06-10 00:00:00
+C0121,Sophia Smith,Brampton,Ontario,Corporate,2023-09-08 00:00:00
+C0122,Sophia Patel,Winnipeg,Manitoba,Corporate,2024-07-24 00:00:00
+C0123,Ava Wilson,Brampton,Ontario,Corporate,2024-07-05 00:00:00
+C0124,Charlotte Taylor,Toronto,Ontario,Consumer,2023-10-22 00:00:00
+C0125,Isabella Brown,Ottawa,Ontario,Corporate,2025-04-12 00:00:00
+C0126,Charlotte Young,Montreal,Quebec,Corporate,2024-03-02 00:00:00
+C0127,James Patel,Winnipeg,Manitoba,Consumer,2022-04-21 00:00:00
+C0128,Amelia Walker,Brampton,Ontario,Consumer,2024-12-06 00:00:00
+C0129,Ava Patel,Calgary,Alberta,Small Business,2024-03-15 00:00:00
+C0130,Amelia Hall,Vancouver,British Columbia,Corporate,2024-06-07 00:00:00
+C0131,Olivia Patel,Ottawa,Ontario,Small Business,2024-03-02 00:00:00
+C0132,Mia Young,Mississauga,Ontario,Consumer,2024-02-15 00:00:00
+C0133,Emma Singh,Edmonton,Alberta,Corporate,2022-05-07 00:00:00
+C0134,Olivia Young,Vancouver,British Columbia,Consumer,2024-02-22 00:00:00
+C0135,Ava Clark,Ottawa,Ontario,Consumer,2025-01-17 00:00:00
+C0136,Ethan Wilson,Calgary,Alberta,Consumer,2023-03-02 00:00:00
+C0137,Ethan Clark,Hamilton,Ontario,Small Business,2024-04-23 00:00:00
+C0138,Isabella Young,Calgary,Alberta,Small Business,2022-02-13 00:00:00
+C0139,Ava Brown,Vancouver,British Columbia,Corporate,2023-05-02 00:00:00
+C0140,Mason Wilson,Brampton,Ontario,Consumer,2023-09-04 00:00:00
+C0141,Mason Martin,Mississauga,Ontario,Corporate,2025-10-07 00:00:00
+C0142,Mia Khan,Vancouver,British Columbia,Small Business,2022-10-28 00:00:00
+C0143,Mia Hall,Mississauga,Ontario,Small Business,2023-01-23 00:00:00
+C0144,Olivia Smith,Ottawa,Ontario,Small Business,2023-07-26 00:00:00
+C0145,Ava Chen,Calgary,Alberta,Small Business,2025-10-21 00:00:00
+C0146,Ethan Martin,Ottawa,Ontario,Consumer,2025-04-09 00:00:00
+C0147,Mason Taylor,Vancouver,British Columbia,Small Business,2022-02-18 00:00:00
+C0148,James Hall,Mississauga,Ontario,Corporate,2022-11-24 00:00:00
+C0149,Olivia Clark,Montreal,Quebec,Corporate,2025-02-24 00:00:00
+C0150,Mia Lewis,Vancouver,British Columbia,Corporate,2022-03-23 00:00:00

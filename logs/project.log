@@ -1,0 +1,7 @@
+2026-11-10 22:34:31,639 - INFO - Loaded employees.csv with 18 rows
+2026-11-10 22:34:31,675 - INFO - Loaded customers.csv with 150 rows
+2026-11-10 22:34:31,715 - INFO - Loaded orders.csv with 1200 rows
+2026-11-10 22:34:31,724 - INFO - Loaded products.csv with 24 rows
+2026-11-10 22:34:31,724 - INFO - CSV ingestion finished in 0.1 seconds
+2026-11-10 22:34:31,894 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-10 22:34:31,895 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
