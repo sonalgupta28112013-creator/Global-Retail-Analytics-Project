@@ -186,4 +186,4 @@ The interactive dashboard provides insights into:
 - Sales Performance by City
 - Customer Segment Analysis
 - Product Category Performance
-Dashboard PDF: [View Dashboard](./Global_Retail_Analytics_Dashboard.pdf)
+Dashboard PDF: [View Power BI Dashboard](./Global%20Retail%20Solutions%20%E2%80%93%20Sales%20Performance%20Dashboard..pdf)
