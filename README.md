@@ -177,3 +177,14 @@ Do not try to memorize the entire script. Start with cells 1–5, understand ing
 
 ### Sales by Category
 ![Sales by Category](reports/charts/sales_by_category.png)
+
+## Power BI Dashboard
+
+The interactive dashboard provides insights into:
+- Total Net Sales and Estimated Profit
+- Monthly Sales Trends
+- Sales Performance by City
+- Customer Segment Analysis
+- Product Category Performance
+
+Dashboard PDF: [View Dashboard](Global_Retail_Analytics_Dashboard.pdf)
